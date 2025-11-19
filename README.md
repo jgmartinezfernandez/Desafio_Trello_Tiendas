@@ -48,7 +48,7 @@ El proyecto trabaja datos de 4 tiendas independientes y permite analizar:
 ## 📦 Instalación
 
 1. Clona el repositorio:  
-git clone https://github.com/tuusuario/challenge1-ds-latam.git
+git clone https://github.com/jgmartinezfernandez/Desafio_Trello_Tiendas
 
 2. Entra al proyecto:  
 cd challenge1-ds-latam
